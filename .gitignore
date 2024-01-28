@@ -1,0 +1,7 @@
+.venv
+*pycache*
+sandbox.py
+.env
+ghl_tokens.json
+logs2*
+*contacts*
